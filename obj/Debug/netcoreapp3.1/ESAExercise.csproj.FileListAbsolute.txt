@@ -1,0 +1,13 @@
+C:\Users\parke\source\ESAExercise\obj\Debug\netcoreapp3.1\ESAExercise.csprojAssemblyReference.cache
+C:\Users\parke\source\ESAExercise\obj\Debug\netcoreapp3.1\ESAExercise.csproj.CoreCompileInputs.cache
+C:\Users\parke\source\ESAExercise\obj\Debug\netcoreapp3.1\ESAExercise.AssemblyInfoInputs.cache
+C:\Users\parke\source\ESAExercise\obj\Debug\netcoreapp3.1\ESAExercise.AssemblyInfo.cs
+C:\Users\parke\source\ESAExercise\bin\Debug\netcoreapp3.1\ESAExercise.exe
+C:\Users\parke\source\ESAExercise\bin\Debug\netcoreapp3.1\ESAExercise.deps.json
+C:\Users\parke\source\ESAExercise\bin\Debug\netcoreapp3.1\ESAExercise.runtimeconfig.json
+C:\Users\parke\source\ESAExercise\bin\Debug\netcoreapp3.1\ESAExercise.runtimeconfig.dev.json
+C:\Users\parke\source\ESAExercise\bin\Debug\netcoreapp3.1\ESAExercise.dll
+C:\Users\parke\source\ESAExercise\bin\Debug\netcoreapp3.1\ESAExercise.pdb
+C:\Users\parke\source\ESAExercise\obj\Debug\netcoreapp3.1\ESAExercise.dll
+C:\Users\parke\source\ESAExercise\obj\Debug\netcoreapp3.1\ESAExercise.pdb
+C:\Users\parke\source\ESAExercise\obj\Debug\netcoreapp3.1\ESAExercise.genruntimeconfig.cache
